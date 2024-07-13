@@ -6,7 +6,7 @@ This repository is designed to guide you through the exciting world of JavaScrip
 
 **Structure**
 
-- **Daily Code Episodes:** Each day, a new folder will be added to the `daily_code` directory. This folder will contain a code snippet (e.g., `01_variables.js`), an explanation file (`01_variables.md`), and optionally, a challenge file (`01_variables_challenge.js`).
+- **Daily Code Episodes:** Each day, a new folder will be added. Folder will contain a code snippet (e.g., `01_variables.js`), an explanation file (`01_variables.md`), and optionally, a challenge file (`01_variables_challenge.js`).
 - **Topics:** As the tutorial progresses, folders for broader topics within JavaScript might be created (e.g., `functions`, `loops`, `dom-manipulation`). These folders will encompass relevant daily code episodes.
 
 **Getting Started**
@@ -31,7 +31,7 @@ We welcome contributions to this repository! If you have a JavaScript concept yo
 
 **Let's Begin!**
 
-Start with the first folder in the `daily_code` directory and work your way up. We look forward to your JavaScript learning journey!
+Start with directory and work your way up. We look forward to your JavaScript learning journey!
 
 **Additional Tips**
 
